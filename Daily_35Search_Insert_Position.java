@@ -12,3 +12,4 @@ public class Daily_35Search_Insert_Position {
         return nums.length;
     }
 }
+hh
