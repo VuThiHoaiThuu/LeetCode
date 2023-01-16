@@ -3,7 +3,6 @@
 public class Daily_14longestCommonPrefix{
     public static void main(String[] args) {
         String[] strs = {"flower","flow","flight"};
-        String[] str = {"cat", "dog", "pig"};
         System.out.println(longestCommonPrefix(strs));
     }
     public static String longestCommonPrefix(String[] strs) {
