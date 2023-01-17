@@ -3,6 +3,7 @@ public class Daily_121BestTimetoBuyandSellStock {
         int[] prices = {2,4,1};
         System.out.println(maxProfit(prices));
     }
+    
     public static int maxProfit(int[] prices){
         if (prices == null || prices.length < 2)
             return 0;

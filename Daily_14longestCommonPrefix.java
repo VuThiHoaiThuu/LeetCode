@@ -5,6 +5,7 @@ public class Daily_14longestCommonPrefix{
         String[] strs = {"flower","flow","flight"};
         System.out.println(longestCommonPrefix(strs));
     }
+    
     public static String longestCommonPrefix(String[] strs) {
         if(strs.length == 0) return "";
         String res = strs[0];

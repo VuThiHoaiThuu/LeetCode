@@ -3,6 +3,7 @@ public class Daily_263UglyNumber {
         int n = 8;   
         System.out.println(isUgly(n));
     }
+    
     public static boolean isUgly(int n) {
         if(n == 1) 
             return true;

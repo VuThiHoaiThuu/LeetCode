@@ -3,6 +3,7 @@ public class Daily_20Valid_Parentheses {
         String s = "{}()[";
         System.out.println(isValid(s));
     }
+    
     public static boolean isValid(String s){
 
     }

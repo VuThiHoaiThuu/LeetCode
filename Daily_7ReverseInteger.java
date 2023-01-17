@@ -3,6 +3,7 @@ public class Daily_7ReverseInteger {
         int n = -2147483412;
         System.out.println(reverse(n));
     }
+    
     public static int reverse(int x){
         int res = 0;
         while(x != 0){
