@@ -1,5 +1,3 @@
-import javax.lang.model.util.ElementScanner14;
-
 public class Daily_2540MinimumCommonValue {
     public static void main(String[] args) {
         int[] nums1 = {1,2,3};
