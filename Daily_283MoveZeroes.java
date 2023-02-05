@@ -11,7 +11,7 @@ public class Daily_283MoveZeroes {
             if(nums[i] != 0){
                 nums[count] = nums[i];
                 count ++;
-            }
+            }           
         }
         for(int i = count; i < nums.length; i++){
             nums[i] = 0;
