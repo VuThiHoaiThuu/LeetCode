@@ -13,7 +13,7 @@ public class Daily_557ReverseWordsinaString {
             if(i == res.length - 1)
                 ans += rev + "";
             else
-                ans += rev + " ";
+                ans += rev + " ";   
         }
         return ans;
     }
